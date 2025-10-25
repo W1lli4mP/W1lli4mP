@@ -18,7 +18,10 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-DD0031?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/HDL-007ACC?style=for-the-badge&logo=verilog&logoColor=white" />
 </p>
+
 
 **Libraries and Tools**
 
