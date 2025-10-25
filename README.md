@@ -10,35 +10,24 @@
 ## Tech Stack
 
 **Languages**
-    
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/powershell/powershell.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/haskell/haskell.png"></code>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
+</p>
 
 **Libraries and Tools**
 
-<code><img height="40" src="https://www.pygame.org/docs/_images/pygame_logo.png" title="Pygame"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/pandas-dev/pandas/master/web/pandas/static/img/pandas.svg" title="pandas"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="35" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" title="VS Code"></code>
-
-<!--
-**W1lli4mP/W1lli4mP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/Pygame-2E8B57?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
